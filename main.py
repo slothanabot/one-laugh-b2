@@ -12,7 +12,7 @@ checking your balance really does feel like a crime now.
 
 import os
 
-LINE = "My bank called about suspicious activity. It was just me checking my balance."
+LINE = "My bank called about suspicious activity — it was just me, checking my own balance."
 
 
 def build_line() -> str:
